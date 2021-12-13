@@ -9,7 +9,7 @@ The input of the test program can be in the following two ways:
 
 The program will automatically perform sub-pixel registration of PAN and MS/HS images. Refer to [1] for the registration method.
 
-The registered data will be sharpened using the SFPSD method. 
+The registered image will be sharpened using the SFPSD method. 
 
 ![image](https://user-images.githubusercontent.com/46412476/145835744-cd0ff724-6492-4547-915b-1234c1002150.png)
 
