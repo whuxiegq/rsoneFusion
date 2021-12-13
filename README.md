@@ -11,7 +11,6 @@ The program will automatically perform sub-pixel registration of PAN and MS/HS i
 
 The registered data will be sharpened using the SFPSD method. 
 
-The program rendering is as follows: 
 ![image](https://user-images.githubusercontent.com/46412476/145835744-cd0ff724-6492-4547-915b-1234c1002150.png)
 
 If our methods or procedures are helpful to you, please cite the following papers: 
