@@ -13,6 +13,8 @@ The registered image will be sharpened using the SFPSD method.
 
 ![image](https://user-images.githubusercontent.com/46412476/145835744-cd0ff724-6492-4547-915b-1234c1002150.png)
 
-If our methods or procedures are helpful to you, please cite the following papers: 
+We provide a set of GF-DM test data as follows: 
+
+If our methods or procedures are helpful to you, please cite the following papers: 链接：https://pan.baidu.com/s/1iOBPAkNfjTVsFHg82Wja4A 提取码：p0zb 
 
 [1] Xie G, Wang M, Zhang Z, et al. Near Real-Time Automatic Sub-Pixel Registration of Panchromatic and Multispectral Images for Pan-Sharpening[J]. Remote Sensing, 2021, 13(18): 3674. (https://www.mdpi.com/2072-4292/13/18/3674)
